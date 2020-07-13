@@ -1,0 +1,37 @@
+[
+    {
+        "id":"1",
+        "name":"rebook",
+        "category":"shoe",
+        "price":"2000",
+        "img":"https://cf.shopee.ph/file/61e6557a98d055027444bb18917085c0"
+    },
+    {
+        "id":"2",
+        "name":"adidas",
+        "category":"watch",
+        "price":"3000",
+        "img":"https://cf.shopee.ph/file/61e6557a98d055027444bb18917085c0"
+    },
+    {
+        "id":"3",
+        "name":"sparks",
+        "category":"shoe",
+        "price":"2500",
+        "img":"https://cf.shopee.ph/file/61e6557a98d055027444bb18917085c0"
+    },
+    {
+        "id":"4",
+        "name":"nike",
+        "category":"shirt",
+        "price":"4000",
+        "img":"https://cf.shopee.ph/file/61e6557a98d055027444bb18917085c0"
+    }, 
+    {
+        "id":"5",
+        "name":"rebook",
+        "category":"shoe",
+        "price":"7000",
+        "img":"https://cf.shopee.ph/file/61e6557a98d055027444bb18917085c0"
+    }
+]
